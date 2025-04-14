@@ -25,27 +25,4 @@ The objective is to strengthen YULG's cyber resilience through clear **pre-incid
 - Cloud-based web server with limited access to the internal database
 - Basic perimeter protection using a firewall and standard user account controls
 
----
 
-## 📦 Project Highlights
-
-### 1. Pre-Incident Preparation
-
-- Implement centralized and retained logging across endpoints and the server
-- Define roles and responsibilities in an incident response team
-- Train staff on phishing, malware recognition, and secure data handling
-- Draft communication plans for internal/external stakeholders
-- Maintain regularly tested backups and snapshots of key systems
-- Ensure legal considerations (e.g., chain of custody) are pre-defined
-
-### 2. Forensic Response Plan
-
-- Steps for identifying, isolating, and assessing infected machines
-- Proper methods for preserving digital evidence without tampering
-- Clear documentation practices throughout the incident lifecycle
-- Prioritization model for balancing business continuity with evidence collection
-- Guidance for escalating to external forensic experts or legal counsel if needed
-
----
-
-## 📄 Contents
